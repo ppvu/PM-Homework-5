@@ -8,3 +8,9 @@ What's in:
 - Snowfall animation with start/stop button
 - Confetti animation (CAEmitterLayer)
 - Fireworks animation (CAEmitterLayer)
+
+### Some screenshots:
+
+Main View                  |  Second Screen View
+:-------------------------:|:-------------------------------:
+![](WeatherApp/Screenshots/MainScreen.png)|  ![](WeatherApp/Screenshots/SecondDetailedView.png)
