@@ -11,6 +11,6 @@ What's in:
 
 ### Some screenshots:
 
-Main View                  |  Second Screen View
-:-------------------------:|:-------------------------------:
-![](WeatherApp/Screenshots/MainScreen.png)|  ![](WeatherApp/Screenshots/SecondDetailedView.png)
+Practice Animation         |  Snowfall Animation             |  Confetti Animation             |  Fireworks Animation
+:-------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:
+![](Screenshots/practice.png)|  ![](Screenshots/snowfall.png)|  ![](Screenshots/confetti.png)|  ![](Screenshots/fireworks.png)
